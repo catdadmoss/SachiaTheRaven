@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SachiaTheRaven
 - 👀 I’m interested in game development
-- 🌱 I’m currently a Masters' student at BME, Hungary
+- 🌱 I’m currently a Backend Developer at Play'n GO
 - 📫 Pls do not percieve me :)
 - 🏳️‍⚧️ they/them
 
